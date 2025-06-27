@@ -43,7 +43,7 @@ The dashboard includes:
 
 **Preview:**
 
-![Dashboard Preview](dashboard/dashboard_screenshot.png)
+![Dashboard Preview](dashboard/Dashboard.png)
 
 ---
 
