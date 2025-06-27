@@ -1,19 +1,19 @@
-# 🛍️ Retail Sales & Profitability Analysis
+# Retail Sales Analysis
 
 This project analyzes a retail dataset to uncover trends in sales performance, customer behavior, and regional patterns. It also includes a Power BI dashboard for business insights.
 
 ---
 
-## 📁 Dataset
+## Dataset
 
-- Source: Kaggle
+- Source: [Kaggle - Retail Sales Dataset](https://www.kaggle.com/datasets/noir1112/retail-sales-data)
 - Columns include:
   - `Sales_ID`, `Product_Category`, `Sales_Amount`, `Discount`
   - `Sales_Region`, `Date_of_Sale`, `Customer_Age`, `Customer_Gender`, `Sales_Representative`
 
 ---
 
-## 🧪 Tools & Technologies Used
+## Tools & Technologies Used
 
 - **Python**: pandas, matplotlib, seaborn
 - **Power BI**: Dashboard and KPI reporting
@@ -21,7 +21,7 @@ This project analyzes a retail dataset to uncover trends in sales performance, c
 
 ---
 
-## 📊 Exploratory Data Analysis (Python)
+## Exploratory Data Analysis (Python)
 
 - Sales by Region, Product Category
 - Monthly trends (by Year & Month)
@@ -31,23 +31,23 @@ This project analyzes a retail dataset to uncover trends in sales performance, c
 
 ---
 
-## 📈 Power BI Dashboard
+## Power BI Dashboard
 
 The dashboard includes:
-- 💰 Total Sales, 🏷️ Total Discounts, 🧾 Total Transactions
-- 📍 Sales by Region
-- 📦 Sales by Product Category
-- 📅 Monthly Sales Trends
-- 👥 Sales by Gender & Age Group
-- 🔍 Slicers for Region, Year, Category
+-  Total Sales, Total Discounts, Total Transactions
+-  Sales by Region
+-  Sales by Product Category
+-  Monthly Sales Trends
+-  Sales by Gender & Age Group
+-  Slicers for Region, Year, Category
 
-📷 **Preview:**
+**Preview:**
 
 ![Dashboard Preview](dashboard/dashboard_screenshot.png)
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 - **North & East** regions had the highest total sales.
 - **Category A** and **Category B** products were the top-performing.
@@ -57,7 +57,7 @@ The dashboard includes:
 
 ---
 
-## 📘 What I Learned
+## What I Learned
 
 - Cleaning and transforming real-world retail data using Python
 - Building insightful visualizations with matplotlib & seaborn
@@ -66,7 +66,7 @@ The dashboard includes:
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 
 Retail-Sales-Profit-Analysis/  
 │  
@@ -86,4 +86,4 @@ Retail-Sales-Profit-Analysis/
   
 ---
 
-📌 *This project is part of my Data Analyst Portfolio.*
+*This project is part of my Data Analyst Portfolio.*
